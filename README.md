@@ -6,6 +6,8 @@ This repository is an attempt to imply some core concepts of AB testing with Pyt
 
  JNotebook : <A href='http://nbviewer.jupyter.org/github/sametmarasli/ab_testing/blob/master/ab_testing_repo.ipynb'>ab_testing</A><BR>
 
+ Project : <A href='http://nbviewer.jupyter.org/github/sametmarasli/ab_testing/blob/master/project.ipynb'>ab_testing</A><BR>
+
 ## Topics Covered
 1. Distributions
 2. Variability
